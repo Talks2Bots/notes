@@ -11,10 +11,11 @@
 <p>
 Where did Marco Polo start out from and what was the common language spoken there?
 </P>
-ChatGPT
+<p>ChatGPT:</p>
+
 Marco Polo, the Venetian merchant, explorer, and writer, started out from the Republic of Venice. During his time, Venice was a major maritime power and a vital center of trade and commerce in the Mediterranean. The common language spoken there was Venetian, a Romance language spoken by the people of Venice. It is important to note that while Venetian was the language of everyday life in Venice, Latin was used for official documents and international diplomacy during the Middle Ages. Venetian was part of the Italo-Dalmatian group of languages, which itself is a subgroup of the Romance languages.
 
-What is Venetian? Is that an early form of Italian?
+<p>What is Venetian? Is that an early form of Italian?</p>
 ChatGPT
 Venetian is not simply an early form of Italian but rather a distinct Romance language in its own right. It belongs to the Gallo-Italic group of languages, which are part of the broader Italo-Dalmatian languages within the Romance language family. Venetian developed from Vulgar Latin, similar to how Italian and other Romance languages did, but it evolved along its own path, influenced by the specific historical, cultural, and social dynamics of the Veneto region and the broader Venetian Republic.
 
