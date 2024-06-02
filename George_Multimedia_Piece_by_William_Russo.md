@@ -3,15 +3,13 @@
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>George's Questions on Marco Polo, Persians, Good and Evil</title>
+    <title>George and William Russo's Multimedia Performances in Chicago in the 1970s.</title>
 </head>
 <body>
 
 <p>
-Where did the Tibetan Book of the Dead come from?
-</P>
 Are you aware of the mulitmedia piece about the civil war that he did?
-<p>
+<\p>
 ChatGPT
 </p>
 <p>
