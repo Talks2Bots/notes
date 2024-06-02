@@ -7,10 +7,10 @@
 </head>
 <body>
 
+
 <p>
-Where did the Tibetan Book of the Dead come from?
-</P>
 Where did Marco Polo start out from and what was the common language spoken there?
+</P>
 ChatGPT
 Marco Polo, the Venetian merchant, explorer, and writer, started out from the Republic of Venice. During his time, Venice was a major maritime power and a vital center of trade and commerce in the Mediterranean. The common language spoken there was Venetian, a Romance language spoken by the people of Venice. It is important to note that while Venetian was the language of everyday life in Venice, Latin was used for official documents and international diplomacy during the Middle Ages. Venetian was part of the Italo-Dalmatian group of languages, which itself is a subgroup of the Romance languages.
 
